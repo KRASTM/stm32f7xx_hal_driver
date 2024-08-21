@@ -1,7 +1,7 @@
 # STM32CubeF7 HAL Driver MCU Component
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32f7xx_hal_driver.svg?color=brightgreen)
-
+![compilation](https://github.com/KRASTM/stm32f7xx_hal_driver/actions/workflows/ci.yml/badge.svg?event=push)
 ## Overview
 
 **STM32Cube** is an STMicroelectronics original initiative to ease developers' life by reducing efforts, time and cost.
